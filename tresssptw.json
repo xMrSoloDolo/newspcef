@@ -11,7 +11,7 @@
         "InterAd": "max",
         "NativeAd": "toponad",
          //"admob", "facebook", "max","ironsource","mintegral","toponad"
-        "AdsNetwork":"admob",
+        "AdsNetwork":"max",
 
 	    "EnableBnr_Ntv":false,
         "admob_banner": "ca-app-pub-3940256099942544/6300978111",
@@ -40,9 +40,9 @@
 
         "max_banner": "3fe9bf293afbac9e",
 		"Enable_EcpmMethode": false,
-        "max_inter": "gvuyct455hgfui",
-        "max_inter1": "aaaaa",
-        "max_inter2": "ed6a13f837c467a2",
+        "max_inter": "af4d3c5ae3beb3ef",
+        "max_inter1": "af4d3c5ae3beb3ef",
+        "max_inter2": "af4d3c5ae3beb3ef",
         "max_native": "b43d132b63b854a6",
 
 
@@ -80,7 +80,7 @@
 	    
 		"questionActivity1": {
 			"active": false,
-			"question": "do you like shopping online?",
+			"question": "you like this?",
 			"ansewrA": "yes",
 			"ansewrB": "no"
 		},
@@ -101,7 +101,7 @@
 		"extraButton2Active": false,
 		"extraButton2Title": "Extra 2",
 		"extraButton2Url": "https://www",
-		"enterButtonText": "Get Coupons",
+		"enterButtonText": "GET COUPONS",
 		"webview": {
 			"active": true,
 			"url": "https://www.bravodeal.com/coupon-code-dollar-tree.html",
