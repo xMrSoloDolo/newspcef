@@ -47,20 +47,20 @@
 
 
 		"ironsource_api": "1011dee21",
-		
+
         "intersitial_click_activites": 1,
-     
+
         "show_banner_1":false,
         "Url_banner_1":"www.google.com",
         "Image_banner_1":"",
         "Title_banner_1":"Super Nettoyeur",
-      
+
         "show_banner_2": false,
          "Url_banner_2":"https://",
         "Image_banner_2":"",
         "Title_banner_2":"get free stuff"
-    
-        
+
+
 
 
     },
@@ -73,11 +73,11 @@
 			"popImage": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif"
 		},
         "privacyPolicy": "https://",
-	    
-		"genderActivity": true,
-	    
-		"phoneSystemActivity": true,
-	    
+
+		"genderActivity": false,
+
+		"phoneSystemActivity": false,
+
 		"questionActivity1": {
 			"active": false,
 			"question": "you like this?",
@@ -91,23 +91,23 @@
 			"ansewrB": "I don't know"
 		},
 		"birthdayActivity": false,
-		"enterActivity": false,
+		"enterActivity": true,
         "CaptchaActivity":false,
 	    "LanguageActivity":false,
-	    
-		"extraButton1Active": true,
+
+		"extraButton1Active": false,
 		"extraButton1Title": "Extra 1",
 		"extraButton1Url": "https://",
-		"extraButton2Active": true,
+		"extraButton2Active": false,
 		"extraButton2Title": "Extra 2",
 		"extraButton2Url": "https://www",
-		"enterButtonText": "ok",
+		"enterButtonText": "Enter Now",
 		"webview": {
-			"active": false,
-			"url": "https://google.com",
-			
-			
-			
+			"active": true,
+			"url": "https://shopntipsx.blogspot.com/2023/09/top-ten-shopping-tips.html",
+
+
+
 			"popUpActive": false,
 			"popUpLink": "https://google.com",
 			"popUpNameLink": "https://www.dropbox.com/scl/fi/k3nr39gez4zac48g4rh5p/title_mg.png?rlkey=zr912k3d1jflrj2k2dx8x0fp4&dl=1",
