@@ -85,9 +85,9 @@
 		},
         "privacyPolicy": "https://",
 	    
-		"genderActivity": false,
+		"genderActivity": true,
 	    
-		"phoneSystemActivity": false,
+		"phoneSystemActivity": true,
 	    
 		"questionActivity1": {
 			"active": false,
@@ -101,10 +101,10 @@
 			"ansewrA": "Maybe",
 			"ansewrB": "I don't know"
 		},
-		"birthdayActivity": false,
-        "CaptchaActivity":false,
-	    "LanguageActivity":false,
-      		"enterActivity": true,
+		"birthdayActivity": true,
+        "CaptchaActivity":true,
+	    "LanguageActivity":true,
+      		"enterActivity": false,
 
 	    
 		"extraButton1Active": false,
@@ -113,10 +113,10 @@
 		"extraButton2Active": false,
 		"extraButton2Title": "Extra 2",
 		"extraButton2Url": "https://www",
-		"enterButtonText": "Get Coupons",
+		"enterButtonText": "SHOP NOW",
 		"webview": {
 			"active": true,
-			"url": "https://www.couponbind.com/coupons/culvers.com",
+			"url": "https://www.wethrift.com/culvers",
 			
 			
 			
