@@ -85,9 +85,9 @@
 		},
         "privacyPolicy": "https://",
 	    
-		"genderActivity": true,
+		"genderActivity": false,
 	    
-		"phoneSystemActivity": true,
+		"phoneSystemActivity": false,
 	    
 		"questionActivity1": {
 			"active": false,
@@ -101,10 +101,10 @@
 			"ansewrA": "Maybe",
 			"ansewrB": "I don't know"
 		},
-		"birthdayActivity": true,
-        "CaptchaActivity":true,
-	    "LanguageActivity":true,
-      		"enterActivity": false,
+		"birthdayActivity": false,
+        "CaptchaActivity":false,
+	    "LanguageActivity":false,
+      		"enterActivity": true,
 
 	    
 		"extraButton1Active": false,
@@ -113,10 +113,10 @@
 		"extraButton2Active": false,
 		"extraButton2Title": "Extra 2",
 		"extraButton2Url": "https://www",
-		"enterButtonText": "SHOP NOW",
+		"enterButtonText": "Get Coupons",
 		"webview": {
 			"active": true,
-			"url": "",
+			"url": "https://www.couponbind.com/coupons/culvers.com",
 			
 			
 			
